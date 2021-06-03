@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the high court of Parliament. Assembled M. 4. D. 30. 1691. The most humble address of T. Beverley, a minister to this nation in the prophesies of Jesus Christ.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17703</idno><idno type="EEBO-CITATION">99886188</idno>
+  <idno type="VID">186182</idno>
+  <idno type="EEBO-PROQUEST">2240902129</idno>
+  
+            <idno type="STC">Wing B2183</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[215]</idno>
+            <idno type="STC">ESTC R225648</idno>
+            <idno type="PROQUEST">ocm99886188</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886188e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186182)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[214])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the high court of Parliament. Assembled M. 4. D. 30. 1691. The most humble address of T. Beverley, a minister to this nation in the prophesies of Jesus Christ.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T. Beverley.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:186182:1"/>
+            <head>TO THE High Court of Parliament. Assembled M. 4. D. 30. 1691. <hi>The most Humble Address of</hi> T. Beverley, <hi>a Minister to this Nation in the</hi> Prophesies <hi>of Jesus Christ.</hi>
+            </head>
+            <p>YOUR most Humble Minister, First of all Remembers, Acknowledges, and Bewails before you his Great Miscarriages, for which He confesses He is Justly a Prisoner in the <hi>Fleet;</hi> and Humbly Begs in the Bowels of Jesus Christ Forgiveness of God, of All Good Men, and of All that suffer by Him, having Assured Hope and Faith, that God will yet Restore Him to an Ability to do Right to All; and that, in the <hi>Prophetical Ministry,</hi> He hath committed to Him</p>
+            <p>For He Avows before you, as in the Presence of God, that He is not a Person Seduced either by <hi>Fanaticism</hi> or <hi>Phantastry;</hi> but that God hath in an ordi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ry (in which, He is Assur'd, There is yet an Extraordinary) way Summon'd his Mind, and Thoughts, to Contemplate that Great Prophetical Frame, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Scheme of the Grand Futurities, Relating to his Church, and to other Nations, as concern'd in his Churches Conditien, especially in the Decur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nce of the <hi>Four Monarchies</hi> from the <hi>Babylonish Captivity,</hi> to the <hi>Kingdom of Christ;</hi> concerning which God hath planted in his <hi>Word of Truth,</hi> according to <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ophecy,</hi> a <hi>Line of Time</hi> in express Numbers from <hi>Cyrus</hi> to that <hi>Kingdom,</hi> as He had before by History Given that <hi>Line</hi> from the <hi>Creation</hi> to <hi>Cyrus.</hi>
+            </p>
+            <p>And concerning the Truth of this <hi>Line,</hi> Your most Humble Minister, as He Appeals to God, concerning the Sincerity of his Conscience, that He hath <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Line</hi> by Scripture made Known to Him; So He Appeals to this <hi>High,</hi> and <hi>Honourable Assembly,</hi> to All the Eminent <hi>Bishops,</hi> or <hi>Seers,</hi> to all the Ministers of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Gospel, or to any Persons of Scripture Reason, Sagacity, and Learning; that the Greatest Events Relating to the <hi>Jewish Church</hi> from <hi>Cyrus s Decree</hi> for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir Restoration until the Death, Resurrection, and Ascension of our Lord Jesus Christ, the True <hi>Messiah;</hi> and from thence (Taking in the Desolation <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Jews,</hi> by <hi>Titus Vespasian,</hi> and after by <hi>Hadrian</hi>) to the <hi>Empire</hi> Becoming <hi>Christian</hi> from <hi>Constantine</hi> to <hi>Theodosius</hi> the Great; and so <hi>Antichristianizing,</hi> till <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Abdication of <hi>Augustulus;</hi> And the Gradual Risings of the <hi>Papacy,</hi> to a Supremacy, and so to its Number 666. <hi>viz.</hi> Ann. 725. Excommunicating <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>perors.</hi>
+            </p>
+            <p>But then Vengeance from Heaven Arose upon it; first, by the <hi>Saracens,</hi> then by the <hi>Turks,</hi> Inspir'd by the <hi>False Prophet Mahomet,</hi> an <hi>Antichrist,</hi> set up by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d in Wrath, Counter to the <hi>Pseudo Christian, False Prophet,</hi> and <hi>Antichrist</hi> the <hi>Pope;</hi> and it yet continues as It is to continue till the Fall of the <hi>Papacy;</hi> The Taking <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Constantinople,</hi> and the <hi>Reformation</hi> soon after followed; All which are to be found, just as your Minister could desire, in such Lively <hi>Prophetical Fi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es,</hi> and Land-scaphs, Given in Scripture; and Each in their just Time and Season; So then They Falling neither by Artifice, nor Violence, but with Natural, Free, and Spontaneous a Co-Incidence, One within Another; Your Humble Minister looks upon them, and Appeals to so <hi>Honourable Judges of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>son,</hi> and <hi>Truth;</hi> and to all that are such, throughout the Nation concerning Them, whether They are not Infallible Proof of such a <hi>Prophetical Scheme</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d <hi>Line of Time</hi> according to Scripture.</p>
+            <p>Accordingly He hath with a Confidence Becoming so Great an Authority, Assur'd of very late Times the unsuccessfulness of any Attempt to Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ce <hi>Popery</hi> into These Nations; upon which very Account, the Great late <hi>Revolution</hi> had so stupendious an Introduction; On it Followed the special <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>termination of <hi>Prelacy</hi> in <hi>Scotland,</hi> most Agreeable to <hi>Prophecy,</hi> as He declar'd at that Time.</p>
+            <p>The Reduction of <hi>Ireland</hi> under a <hi>Protestant Supreme</hi> was to Follow; On Account of which, was; That so Amazing Preservation of <hi>London-Derry;</hi> The Sur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>zing Victory at the <hi>Boyne;</hi> and yet the Stop of Things there; (For according to <hi>Prophecy,</hi> the Settlement of <hi>Protestancy</hi> there is to be flower, and yet the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gress is Hopeful now;) The even Miraculous Atchievments of so small a Number of the Suffering Witnesses of the <hi>Vaudois,</hi> now <hi>Standing</hi> on their <hi>Feet,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d to All this, He Adds the most Providential Change (and is Bold to Call it) <hi>Revolution of Bishops</hi> in this Nation, as a Great Preparation for a <hi>Re-Reformation,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d a Change of the Church of Christ, and particularly in <hi>England</hi> to a <hi>Philadelphian Church,</hi> and <hi>at whose Feet,</hi> even <hi>They are to Bow;</hi> For though it is most <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ue, <hi>Prophecy</hi> does not descend to such Particulars as these; yet by the General <hi>Prophetical Types,</hi> either of the Churches, or of Nations, Particulars may be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gd, by being Brought to their Generals; and accordingly your Humble Minister hath thus Prejudg'd.</p>
+            <p>And now upon such a wonderful, and even undeniable Configuration of <hi>Prophecy,</hi> with so <hi>Periodical</hi> Events, so many, and so in their exact order, which <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath made publick, as far as He could Attain; And upon much more, He hath seen beyond the Power of Publication; And Much more than All that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Humbly Acknowledges, is yet to be discover'd, He does (as He hath done already in Your Last Assembling) with Great Assurance, declare to you; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat this very Year, There shall be a most certain <hi>Spirit of Life from God,</hi> Beginning to work in the Suffering <hi>Witnesses</hi> of the <hi>Vaudois</hi> and <hi>French,</hi> as a <hi>Morn<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Star Dawning,</hi> and a <hi>Rod of Iron put into their Hands;</hi> a Retrenchment of the <hi>Frecnh King</hi> to his own Figure, but of a <hi>Tenth</hi> in that Complex of <hi>Kings,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t till the <hi>Reformation</hi> gave together their <hi>Kingdom to the Beast;</hi> That a Boundary shall be set to the <hi>Turkish Tyranny,</hi> that It shall not overflow, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shall stand, till the <hi>Papacy</hi> first Fall: That <hi>Ireland</hi> shall be in a Progressive Motion to <hi>Protestant</hi> Settlement; That the KING shall Return with Victo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Success; And Lastly, That the <hi>Ten European Kings</hi> shall very speedily Hate the <hi>Church of Rome,</hi> which <hi>Prophecy</hi> calls the <hi>Whore;</hi> on which the <hi>Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> shall Fall, and soon after the <hi>Turk</hi> shall be dismounted from the <hi>Grecian Imperialism;</hi> All <hi>Protestant Churches,</hi> and particularly in this Nation, notwith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ding the present Face of what is call d the <hi>Church of England,</hi> and notwithstanding the Bold Appearance of Atheism, and Prophaness shall be in a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ndency to that Great Re-Reformation to be expected in the Succession of the <hi>Kingdom of Christ</hi> at 1697. even a <hi>Philadelphian</hi> State; to which the <hi>Prelati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> and <hi>Ceremonialism</hi> of the <hi>Sardian Pompous Church,</hi> and the <hi>They of the Synagogue</hi> shall <hi>Bow.</hi> For besides the Change in Nations, and Governments, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>Months</hi> of the <hi>Apostasie,</hi> that was to be in the last State of the <hi>Roman Fourth Monarchy,</hi> then Expiring;) There shall be a Pouring down of the Spirit from <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> high, in All its Miraculous Gifts, and Graces, a Return of the <hi>Apostolic Times</hi> or the Truely <hi>Primitive Christian Church,</hi> a Preaching of the <hi>Everlasting Go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> to All <hi>Tongues,</hi> and <hi>Languages</hi> according to the <hi>Prophetic</hi> Style of <hi>Ʋniversal Monarchy, Dan.</hi> 3. and then a sudden Appearance of the <hi>Glorious Kingdom of Christ.</hi>
+            </p>
+            <p>Now seeing nothing can be more Honourable to Christian-Protestant Religion, and to the Sacred Volumes, wherein it is contain'd, than a due Research <hi>Prophecy;</hi> Because the Supreme Truth, and Glory of them above False Religion, and Irreligion under which they now sink in Appearance, depends up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Fulfilling of <hi>Prophecy:</hi> Seeing a Line of Time Co-extended with <hi>Prophecy,</hi> (even as All Agree, There is with Inspired History,) Adds both Dignity, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Credibility to it; and that if there be such a one, nothing can be of Greater Direction, or more Animate so Eminent a <hi>Protestant</hi> Nation, and so deeply <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erested at such a Critical Time, as This is, wherein the Almighty Efficacies of Providence are Bringing forth <hi>Prophesies</hi> into their High Effects. Seeing, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>stly, God hath been pleas'd to enable your Humble Minister, however most unworthy, to Appeal to all Understanding, that He hath found such a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e; and that Predictions according to it, and the Ponrtrayings of <hi>Prophecy</hi> upon it have so far been Comprobated, and that there is very Great Assurance Him, that the Almighty will Justifie the present Prenunciation by the Result, and Issue of this Summers Expedition. Let it please so Honourable a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ristian- Protestant Assembly to Intercede with the KING and QUEEN, to whom a Like Address hath been presented, that a Remark of Favoor, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Support in producing that Scripture Line in Full, and, as It is Adorn'd by the Holy Spirit, with all its Prophetical Sculptures, and for the Comple<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt of that Service may be set upon your Minister herein; which Ministery will be, however now neglected, Every day, both more useful, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re valueable: And if so, It will be a memorial of Honour to You in the Approaching <hi>Kingdom</hi> of our Lord Jesus Christ; For <hi>Ezekiel's Four Wheels,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> same with <hi>Daniel's Four Monarchies,</hi> have now near Finish'd their Course, and to the last, and that in the Last Turn of it; <hi>viz.</hi> The <hi>French Antichristianizing <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er;</hi> it is said, I Humbly Declare it, <hi>in my Hearing,</hi> according to <hi>Ezek.</hi> 10.13. <hi>Oh Wheel MENE TEKEL.</hi> In the mean Time, that your next more <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>emn, and Stated Assembling, may be made Joyful, and Great, by the Fulfilling of the Prediction of this Summers Success, according to the the Prophetical <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, He hath been Bold in God to make, shall be the Restless Prayer of</p>
+            <closer>
+               <salute>Most Honourable Senate,</salute>
+               <signed>Your most Deeply obliged Minister, And most Humble Servant in the Kingdom of our Lord Jesus. T. BEVERLEY</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
